@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69263d05-83bc-4818-9a8d-1996b335bee2"
+      }
+    },
+    "owner": "barrymichaeldoyle"
   }
 }
